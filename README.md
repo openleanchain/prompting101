@@ -20,27 +20,27 @@ Use these as the four learning pillars for the course.
 
 ## Course Map
 
-1. **Introduction**  
+1. **🎯 Introduction**  
    **What you do:** Get oriented, review goals, and complete a short pre‑flight to unlock the journey.  
    **Outcome:** Understand the end‑to‑end flow we’ll practice (tiny script → roles → memory → templates → JSON → actions → graduation).
 
-2. **First Contact**  
+2. **👋 First Contact**  
    **Focus:** Single‑turn prompting fundamentals and **role framing** (system, user, assistant). Start from a tiny “Fix my computer” script, then improve it with role + tone + constraints.  
    **Outcome:** Craft clear, goal‑aligned prompts that steer reliable first answers.
 
-3. **Memory Power**  
+3. **🧠 Memory Power**  
    **Focus:** **Multi‑turn prompting**—carry forward key details, restate goals, and keep the conversation on track by appending/curating history.  
    **Outcome:** Design short, iterative prompts that remember what matters across turns.
 
-4. **Structure Master**  
+4. **🏗️ Structure Master**  
    **Focus:** Schema‑first prompting and **JSON outputs** (stable keys, enums, constraints) for reliable reuse.  
    **Outcome:** Produce machine‑readable responses that are easy to validate and feed into tools.
 
-5. **Integration Hero**  
+5. **🚨 Integration Hero**  
    **Focus:** Go **beyond the chatbot.** Use structured outputs (e.g., severity) to trigger actions such as ticket creation, email/SMS escalation, on‑call notifications, or simple function calls.  
    **Outcome:** Turn answers into safe, auditable steps that plug into existing IT workflows.
 
-6. **Graduation**  
+6. **🎓 Graduation**  
    **Focus:** Wrap‑up and next steps. Complete the capstone and an **8‑question quiz** (≈2 per section) to earn a certificate.  
    **Outcome:** A clean set of reusable prompts/templates plus a plan for what to learn next (e.g., RAG/Context).
 
