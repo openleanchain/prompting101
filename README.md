@@ -1,6 +1,6 @@
-# IT Repair Hero Academy — Prompt Engineering for Beginners
+# IT Repair Hero Academy — GenAI 101 Beyond Chatbot
 
-**Purpose:** This repository stores the **training content** for a beginner-friendly course on **prompt engineering**. To make learning practical and fun, the course uses **IT incident triage & support** as the running use case.
+**Purpose:** This repository stores the **training content** for a beginner-friendly course on **GenAI 101 Beyond Chatbot**. To make learning practical and fun, the course uses **IT incident triage & support** as the running use case.
 
 **Audience:** Anyone new to GenAI—students, educators, and working professionals.
 
@@ -13,7 +13,7 @@ Use these as the four learning pillars for the course.
 
 - **Master Prompts** — *Learn to write effective prompts that get the results you need.*
 - **Memory Power** — *Keep multi-turn chats on track with conversation memory.*
-- **Structure Output** — *Control how your AI formats and organizes responses.*
+- **Structure Master** — *Control how your AI formats and organizes responses.*
 - **Integration Hero** — *Turn results into actions beyond the chatbot, such as create tickets, send emails, and call tools when severity requires.*
 
 ---
